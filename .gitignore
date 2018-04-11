@@ -1,0 +1,5 @@
+results/
+myvenv
+*.csv
+jobs/
+databases/
