@@ -3,3 +3,4 @@ myvenv
 *.csv
 jobs/
 databases/
+*results/
